@@ -6,3 +6,5 @@
 - Dodana početna dokumentacija
 - Postavljen GitHub Pages
 
+## Verzija 1.1
+- Dodana nova sekcija u dokumentaciji.
